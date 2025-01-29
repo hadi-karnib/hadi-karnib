@@ -77,7 +77,10 @@
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
   </a>
 </p>
+
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hadi-karnib&show_icons=true&locale=en&layout=compact" alt="hadi-karnib" />
+</p>
 <div style="display: flex; justify-content: space-around; align-items: center; width: 100%;">
-  <img src="https://github-readme-stats.vercel.app/api?username=hadi-karnib&show_icons=true&locale=en" alt="hadi-karnib" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hadi-karnib&" alt="hadi-karnib" />
 </div>
